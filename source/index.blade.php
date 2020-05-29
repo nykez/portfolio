@@ -6,7 +6,7 @@
         <div class="w-full text-center mb-20">
             <div class="relative mx-auto rounded-full h-48 w-48 border-gray-600 border-2 mb-4" style="padding: .375rem">
                 <div class="rounded-full border-2 border-gray-600" style="padding: .375rem">
-                    <img src="assets/img/icon.png" alt="hero" class="rounded-full block" />
+                    <img src="https://i.imgur.com/MpijUOU.jpg" alt="hero" class="rounded-full block" />
                 </div>
             </div>
             <div class="leading-tight text-3xl my-2 text-white font-bold">Nykez</div>
