@@ -24,6 +24,11 @@
                     <i class="far fa-gamepad fa-fw"></i>
                     Gmodstore
                 </a>
+                
+                <a href="{{ $page->steam }}" class="inline-block rounded-full bg-gray-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                    <i class="fa fa-steam"></i>
+                    Steam
+                </a>
 
                 <a href="mailto:nykezgaming@live.com" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-mailbox fa-fw"></i>
