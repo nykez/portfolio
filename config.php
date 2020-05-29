@@ -3,8 +3,8 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'github' => 'https://github.com/robertdrakedennis',
-    'twitter' => 'https://twitter.com/2Datlas',
-    'gmodstore' => 'https://www.gmodstore.com/users/atlas',
+    'github' => 'https://github.com/nykez',
+    'twitter' => 'https://wakatime.com/@Nykez',
+    'gmodstore' => 'https://www.gmodstore.com/users/76561198011844757',
     'collections' => [],
 ];
