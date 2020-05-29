@@ -9,7 +9,7 @@
                     <img src="https://i.imgur.com/MpijUOU.jpg" alt="hero" class="rounded-full block" />
                 </div>
             </div>
-            <div class="leading-tight text-3xl my-2 text-white font-bold">Nykez</div>
+            <div class="leading-tight text-3xl my-2 text-white font-bold">Jordan (Nykez)</div>
             <div class="text-gray-400 leading-tight mb-2">Software Engineer</div>
             <div class="flex justify-between max-w-sm mx-auto mt-5">
                 <a href="{{ $page->github }}" class="inline-block rounded-full bg-gray-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
