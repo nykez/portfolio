@@ -39,7 +39,10 @@
 
         <div class="w-full text-center mt-8">
             <h1 class="text-3xl lg:text-6xl font-black text-white mb-10">Coming Soon.</h1>
-
+        </div>
+        
+        <div class="w-full text-center mt-8">
+            <h1 class="text-3xl lg:text-4xl font-black text-white mb-10">Meanwhile... enjoy some data!</h1>
         </div>
     </div>
 
