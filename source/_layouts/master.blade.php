@@ -18,5 +18,6 @@
 <div class="flex flex-grow content-center">
     @yield('content')
 </div>
+<p></p>
 </body>
 </html>
