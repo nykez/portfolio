@@ -37,15 +37,15 @@
             </div>
         </div>
 
-        <div class="w-full text-center mt-8">
+        <div class="w-full text-center mt-3">
             <h1 class="text-3xl lg:text-6xl font-black text-white mb-10">Coming Soon.</h1>
         </div>
         
-        <div class="w-full text-center mt-8">
+        <div class="w-full text-center mt-7">
             <h1 class="text-3xl lg:text-3xl font-black text-white mb-10">Meanwhile... enjoy some of my data!</h1>
         </div>
         
-        <div class="flex mb-4">
+        <div class="flex mb-10">
             <div class="w-1/2 h-12 px-2">
                 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nykez/cfc8aa48-96e4-45c3-8e1c-04aa15dcc674.png" /></a>
             </div>
