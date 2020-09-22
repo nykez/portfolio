@@ -16,20 +16,20 @@
                     <i class="fab fa-github fa-fw"></i>
                     Github
                 </a>
-                <a href="{{ $page->twitter }}" class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="{{ $page->twitter }}" target="_blank class="inline-block rounded-full bg-blue-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="fas fa-plug"></i>
                     Wakatime
                 </a>
-                <a href="{{ $page->steam }}" class="inline-block rounded-full bg-gray-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="{{ $page->steam }}" target="_blank class="inline-block rounded-full bg-gray-600 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="fa fa-steam"></i>
                     Steam
                 </a>
-                   <a href="{{ $page->gmodstore }}" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                   <a href="{{ $page->gmodstore }}" target="_blank class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-gamepad fa-fw"></i>
                     Gmodstore
                 </a>
 
-                <a href="mailto:nykezgaming@live.com" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                <a href="mailto:nykezgaming@live.com" target="_blank class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
                     <i class="far fa-mailbox fa-fw"></i>
                     Email
                 </a>
