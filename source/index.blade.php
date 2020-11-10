@@ -52,9 +52,6 @@
                 <div class="w-1/2 h-12 px-2">
                     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nykez/cfc8aa48-96e4-45c3-8e1c-04aa15dcc674.png" /></a>
                 </div>
-                <div class="w-1/2 h-12 px-2">
-                    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nykez/50abd1d3-43f8-4c86-b575-f1eebe36a21f.png" /></a>
-                </div>
             </div>
  
 
