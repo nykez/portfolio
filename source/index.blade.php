@@ -33,6 +33,10 @@
                     <i class="far fa-mailbox fa-fw"></i>
                     Email
                 </a>
+                 <a href="https://www.linkedin.com/in/jcavins/" target="_blank" class="inline-block rounded-full bg-blue-700 uppercase px-2 py-1 text-xs font-bold text-red-100 font-bold">
+                    <i class="far fa-linkedin"></i>
+                    LinkedIn
+                </a>
             </div>
         </div>
 
